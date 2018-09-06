@@ -132,7 +132,7 @@ public class ShoppingBol {
 		}
 		else {
 			System.out.println("Shipping is not free");
-		}
+		} 
 			
 	}
 	
