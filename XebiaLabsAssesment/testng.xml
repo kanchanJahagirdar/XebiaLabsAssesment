@@ -13,6 +13,6 @@
     <parameter name="Browser" value="chrome"/>
     <classes>
       <class name="com.businessComponent.ShoppingBol"/>
-    </classes>
+    </classes> 
   </test> <!-- Test -->
 </suite> <!-- Suite -->  
