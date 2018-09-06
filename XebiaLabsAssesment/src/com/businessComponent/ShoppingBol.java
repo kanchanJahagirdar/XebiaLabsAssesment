@@ -25,7 +25,7 @@ public class ShoppingBol {
 	public static String systemPath="";
 	
 	@Parameters({"Path","Browser"})
-	@BeforeTest
+	@BeforeTest 
 	public static void Initialization(String path,String browser)
 	{
 		  //Here we decide which browser should be selected for execution
