@@ -126,7 +126,7 @@ public class ShoppingBol {
 		if (resultPrice>20) {
 			
 			if (Shipping_Value.equalsIgnoreCase("Gratis"))
-				System.out.println("Functionality is working fine");
+				System.out.println("Functionality is working fine:Shipping is free");
 			else
 				System.out.println("Issue in Functionality");
 		}
